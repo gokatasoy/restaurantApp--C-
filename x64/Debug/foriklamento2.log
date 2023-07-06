@@ -1,0 +1,4 @@
+﻿  foriklamento2.cpp
+C:\Users\Gökberk ATASOY\source\repos\foriklamento2\foriklamento2\foriklamento2.cpp(309,13): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\Gökberk ATASOY\source\repos\foriklamento2\foriklamento2\foriklamento2.cpp(450,21): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+  foriklamento2.vcxproj -> C:\Users\Gökberk ATASOY\source\repos\foriklamento2\x64\Debug\foriklamento2.exe
